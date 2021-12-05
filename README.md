@@ -1,6 +1,6 @@
- Add files via upload
+This zip file has everything to help you to create your own PofoDuino : interface to upload file from a windows into an ATARI Porfolio.
 
-This zip file has everything to help you to create your own PofoDuino. 
+Hardware : parallel interface for ATARI Porfolio, one Arduino Micro , one SUB 25. 
 
 - Schematic and Gerbert files
 - source code of the windows App
